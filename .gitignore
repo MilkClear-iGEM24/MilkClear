@@ -10,4 +10,4 @@ Documentation.Rproj
 # ignore R project user directory
 .Rproj.user/
 
-
+.Rhistory

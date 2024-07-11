@@ -1,5 +1,5 @@
 # ignore all .cif files
-.cif
+/data/
 
 # ignore the Pymol session file
 aligning.pse

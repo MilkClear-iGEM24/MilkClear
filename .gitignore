@@ -1,0 +1,13 @@
+# ignore all .cif files
+.cif
+
+# ignore the Pymol session file
+aligning.pse
+
+# ignore Rproject file
+Documentation.Rproj
+
+# ignore R project user directory
+.Rproj.user/
+
+

@@ -1,0 +1,65 @@
+########################################
+# Program: needle
+# Rundate: Thu 11 Jul 2024 09:45:06
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20240711-094406-0419-49626794-p1m.asequence
+#    -bsequence emboss_needle-I20240711-094406-0419-49626794-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: EMBOSS_001
+# 2: EMBOSS_002
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 269
+# Identity:      89/269 (33.1%)
+# Similarity:   144/269 (53.5%)
+# Gaps:          47/269 (17.5%)
+# Score: 375.0
+# 
+#
+#=======================================
+
+EMBOSS_001         1 MDPMIKRSKKNSLALSLTADQMVSALLDAEPPILYSEYDPTRPFSEASMM     50
+                                  ......:::||.||.|||..:|:..|||.|.|:...:
+EMBOSS_002         1 -------------PAKKPYNKIVSHLLVAEPEKIYAMPDPTVPDSDIKAL     37
+
+EMBOSS_001        51 GLLTNLADRELVHMINWAKRVPGFVDLTLHDQVHLLECAWLEILMIGLVW    100
+                     ..|.:|||||||.:|.|||.:|||..|:|.||:.||:.||:|||::|:|:
+EMBOSS_002        38 TTLCDLADRELVVIIGWAKHIPGFSTLSLADQMSLLQSAWMEILILGVVY     87
+
+EMBOSS_001       101 RSMEHPGKLLFAPNLLLDRNQGKCVEGMVEIFDMLLATSSRFRMMNLQGE    150
+                     ||:....:|::|.:.::|.:|.| :.|::::.:.:|....:::.|.|:.|
+EMBOSS_002        88 RSLSFEDELVYADDYIMDEDQSK-LAGLLDLNNAILQLVKKYKSMKLEKE    136
+
+EMBOSS_001       151 EFVCLKSIILLNSGVYTFLSSTLKSLEEKDHIHRV--LDKITDTLIHLMA    198
+                     |||.||:|.|.||              :..||..|  :.|:.|.|...:.
+EMBOSS_002       137 EFVTLKAIALANS--------------DSMHIEDVEAVQKLQDVLHEALQ    172
+
+EMBOSS_001       199 --KAGLTLQQQH----QRLAQLLLILSHIRHMSNKGMEHLYSMKCKNVVP    242
+                       :||     ||    :|..::|:.|..:|..|.|.::|.|::|.:..||
+EMBOSS_002       173 DYEAG-----QHMEDPRRAGKMLMTLPLLRQTSTKAVQHFYNIKLEGKVP    217
+
+EMBOSS_001       243 LSDLLLEMLDAHRLHAPTS    261
+                     :..|.||||:|..      
+EMBOSS_002       218 MHKLFLEMLEAKV------    230
+
+
+#---------------------------------------
+#---------------------------------------

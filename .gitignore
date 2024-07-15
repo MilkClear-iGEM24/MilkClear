@@ -2,7 +2,7 @@
 /data/
 
 # ignore the Pymol session file
-aligning.pse
+*.pse
 
 # ignore Rproject file
 Documentation.Rproj
@@ -11,3 +11,6 @@ Documentation.Rproj
 .Rproj.user/
 
 .Rhistory
+*.cif
+
+*.html

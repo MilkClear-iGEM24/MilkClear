@@ -3,6 +3,8 @@
 
 # ignore the Pymol session file
 *.pse
+*.pdb
+*.pdf
 
 # ignore Rproject file
 Documentation.Rproj
